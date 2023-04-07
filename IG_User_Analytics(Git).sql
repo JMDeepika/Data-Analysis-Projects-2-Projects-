@@ -1,4 +1,4 @@
-/* Skills Used : Basic SQL queries */
+/* Skills Used : Aggregate Functions, JOINs, Subqueries, Sorting Functions, Managing DataBases(Create and Merge Table), View and Basic SQL queries */
 
 /*   A)   MARKETING TEAM        */
 
